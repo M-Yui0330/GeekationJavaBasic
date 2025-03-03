@@ -1,5 +1,5 @@
 package basicSyntax;
-
+//joukennbunnki
 	public class IfSwitch {
 
 		public static void main(String[] args) {
@@ -30,7 +30,7 @@ package basicSyntax;
 					 break;	
 
 			}
-
+			
 		}
 
 	}
